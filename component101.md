@@ -1,20 +1,21 @@
-# React-training
+# Github issue page
+
 ```
-Timeline
-├── SideMenu
-│   └── SideMenuItem
-│       └── ProgressBar
-└── Chart
-    ├── TimeBasis
-    │   ├── HourBlock
-    │   └── TimeLabel
-    ├── UnservedLine
-    │   ├── HourBlock
-    │   ├── HomeLabel
-    │   └── StopLabel
-    └── TimelineLine
-        ├── HourBlock
-        ├── RouteLine
-        ├── HomeLabel
-        └── StopLabel
+Issue
+├── Notice
+│   ├── Index
+|	└── Button
+├── SubNav
+│   ├── Button
+|	├── Filters
+|   └── Search
+├── TableListHeader
+│   ├── LeftListHeader
+|   └── RightListHeader
+|		├── Sort
+|       └── Filters
+└── TableListContent
+    ├── LeftListContent
+    │   └── IssueLabel
+    └── RightListContent
 ```
